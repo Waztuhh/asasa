@@ -1,0 +1,33 @@
+{
+  "token": "MTAzMDk0Mjk3NzE5NzA5NzAxMQ.Gqv0VH.XjgTVGsM557Y02TMf0KFWF4ffHKfwbYv4g46Vk",
+  "prefix": ["."],
+  "guildID": "1041668714807951422",
+  "mongoUrl": "mongodb+srv://klautdev:dasan778@cluster0.6ayjbkq.mongodb.net/",
+  "owners": "530407551699779588",
+  "botDurum": "Developed By Klaut",
+  "botSes": "1136997313789833428",
+  "registerPerm": "1136996714696425544",
+
+  "dmMessages": true,
+
+  "messageDolar": 1,
+  "voiceDolar": 1,
+
+
+  "messageCount": 1,
+  "messageCoin": 2,
+  "voiceCount": 1,
+  "voiceCoin": 4,
+  "publicCoin": 4,
+  "inviteCount": 1,
+  "inviteCoin": 15,
+  "taggedCoin": 25,
+  "toplamsCoin": 5.5,
+  "yetkiCoin": 30,
+
+  "banlimit": 3,
+  "jaillimit": 3,
+  "warnlimit": 3,
+  "chatmutelimit": 3,
+  "voicemutelimit": 3
+}
